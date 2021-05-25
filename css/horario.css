@@ -1,0 +1,103 @@
+                /* FOLHA */
+.folha{
+    width: 1200px;
+    height: 700px;
+    position: relative;
+    left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px dotted #000;
+    background-color: rgba(224, 185, 185, 0.589);
+    border-radius: 10px;
+}
+
+                /* TITULO / HORARIO / DIAS DA SEMANA / LEGENDA / Professores*/
+.titulo{
+    position: fixed;
+    left: 340px;
+    width: 700px;
+    width: 600px;
+}
+.horario{
+    position: fixed;
+    left: 180px;
+    top: 110px;
+    border: 1px solid #000;
+    background-color: rgb(194, 114, 114);
+    border-radius: 10px;
+}
+.segunda{
+    position: fixed;
+    left: 295px;
+    top: 110px;
+    border: 1px solid #000;
+    background-color: rgb(194, 114, 114);
+    border-radius: 10px;
+}
+.terca{
+    position: fixed;
+    left: 408px;
+    top: 110px;
+    border: 1px solid #000;
+    background-color: rgb(194, 114, 114);
+    border-radius: 10px;
+}
+.quarta{
+    position: fixed;
+    left: 503px;
+    top: 110px;
+    border: 1px solid #000;
+    background-color: rgb(194, 114, 114);
+    border-radius: 10px;
+}
+.quinta{
+    position: fixed;
+    left: 600px;
+    top: 110px;
+    border: 1px solid #000;
+    background-color: rgb(194, 114, 114);
+    border-radius: 10px;
+}
+.sexta{
+    position: fixed;
+    left: 695px;
+    top: 110px;
+    border: 1px solid #000;
+    background-color: rgb(194, 114, 114);
+    border-radius: 10px;
+}
+.legenda{
+    position: fixed;
+    top: 350px;
+    left: 180px;
+    border: 1px dotted #000;
+    border-radius: 15px;
+    background-color: rgb(194, 114, 114)
+}
+.Professores{
+    position: fixed;
+    top: 350px;
+    left: 480px;
+    border: 1px dotted #000;
+    border-radius: 15px;
+    width: 300px;
+    height: 330px;
+    background-color: rgb(194, 114, 114)
+}
+
+                /* IMAGENS */
+                
+.imagem{
+    position: fixed;
+    top: 367px;
+    left: 840px;
+    width: 400px;
+    border-radius: 10px;
+}
+.imagem2{
+    position: fixed;
+    top: 100px;
+    left: 840px;
+    width: 400px;
+    border-radius: 10px;
+}
+
