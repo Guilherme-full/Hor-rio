@@ -13,7 +13,7 @@ gh repo clone Guilherme-full/Hor-rio
 
 ## Visualizar Projeto
 
-## *[Horário](https://guilherme-full.github.io/Projeto-PetShop/pagina.html)
+## *[Horário](https://guilherme-full.github.io/Hor-rio/horario.html)
 
 
 
