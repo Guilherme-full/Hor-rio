@@ -1,8 +1,8 @@
 # Horário (Guilherme Xavier Souza)
 
-## Download do Projeto
+## Clonar Repositório
 ```
-gh repo clone Guilherme-full/Hor-rio
+git clone https://github.com/Guilherme-full/Hor-rio.git
 ```
 
 |          | Linux | macOS | Windows |
